@@ -1,6 +1,10 @@
 package org.xyz;
 
 public class Practice {
+	
+	private void anuMethod() {
+		System.out.println("Anu....");
+	}
 
 	public static void main(String[] args) {
 
