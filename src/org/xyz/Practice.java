@@ -8,6 +8,10 @@ public class Practice {
 		System.out.println("sam");
 	}
 
+	private void anuMethod() {
+		System.out.println("Anu....");
+	}
+
 	public static void main(String[] args) {
 
 		int a = 100, b = 200;
